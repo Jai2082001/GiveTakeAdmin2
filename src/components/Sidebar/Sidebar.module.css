@@ -1,0 +1,11 @@
+.sidebar{
+    background-color: lightblue;
+    min-height: 100vh;
+}
+.sidebar button{
+    width: 100%;
+    margin: 10px 0px;
+    background-color: black;
+    color: white;
+    border: none;
+}

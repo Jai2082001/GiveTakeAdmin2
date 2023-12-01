@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.App article{
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+
+.App div{
+  margin: 0;
+  padding: 0;
+}
+
+
+

@@ -1,0 +1,29 @@
+.childDiv{
+    display: flex;
+    background-color: lightgrey;
+    margin: 10px 0px;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.imgDiv img{
+    max-width: 200px;
+    margin: 10px 5px;
+}
+.btnDiv button{
+    margin: 0px 5px;
+    background: none;
+    padding: 5px;
+    border: 1px solid black;
+    transition: 0.2s all ease-in-out;
+}
+.btnDiv button:hover{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}
+.btnDiv button:active{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}
